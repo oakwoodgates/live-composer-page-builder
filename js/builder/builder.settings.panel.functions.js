@@ -1550,6 +1550,7 @@ function dslc_module_options_color( field ) {
 
 				// Change current value of option
 				dslcColorField.val( dslcColorFieldVal ).trigger('change');
+				dslcColorField.css('background', dslcColorFieldVal);
 
 				// Live change
 				dslcAffectOnChangeEl = dslcColorField.data('affect-on-change-el');

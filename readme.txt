@@ -145,6 +145,7 @@ Upcoming Releases:
 
 * Issue [#297](https://github.com/livecomposer/live-composer-page-builder/issues/297): Can't change module width due to overlay problem with popup control.
 * Image module: background color overlays the image.
+* Issue [#291](https://github.com/livecomposer/live-composer-page-builder/issues/291): Color picker do not update when copy/paste
 
 = For developers: =
 
